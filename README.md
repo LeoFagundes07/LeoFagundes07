@@ -1,8 +1,9 @@
+![Banner Leonardo Fagundes](Gemini_Generated_Image_aittreaittreaitt.png)
+
 # Leonardo Fagundes | Salesforce • Power BI • Automação Industrial • Front end
 
 ## Sobre mim
 
-## Sobre Mim
 
 Profissional com 14 anos de experiência em manutenção industrial e utilidades na Toyota do Brasil.
 
