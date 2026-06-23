@@ -1,10 +1,17 @@
-# Leonardo Fagundes 👋
+# Leonardo Fagundes | Salesforce • Power BI • Automação Industrial • Front end
 
 ## Sobre mim
 
-Minha trajetória começou na manutenção industrial, atuando em sistemas elétricos, automação e utilidades.
+## Sobre Mim
 
-Hoje estou expandindo minha atuação para tecnologia, aplicando conceitos de Salesforce, Power BI, Power Apps e automação de processos para resolver problemas reais de negócio.
+Profissional com 14 anos de experiência em manutenção industrial e utilidades na Toyota do Brasil.
+
+Ao longo da carreira atuei com sistemas elétricos industriais, automação, subestações, HVAC, compressores, sistemas de incêndio e gestão de manutenção.
+
+Atualmente estou expandindo minha atuação para Tecnologia, com foco em Salesforce, Power BI, Power Apps, Automação de Processos e Análise de Dados.
+
+Meu objetivo é unir a experiência prática da indústria com soluções digitais que gerem eficiência operacional e melhoria contínua.
+
 
 ## Tecnologias
 
