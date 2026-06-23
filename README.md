@@ -2,11 +2,9 @@
 
 ## Sobre mim
 
-Profissional com 14 anos de experiência em manutenção industrial e utilidades na Toyota do Brasil.
+Minha trajetória começou na manutenção industrial, atuando em sistemas elétricos, automação e utilidades.
 
-Atualmente em transição para Tecnologia com foco em Salesforce, Power BI, Power Apps e Automação de Processos.
-
----
+Hoje estou expandindo minha atuação para tecnologia, aplicando conceitos de Salesforce, Power BI, Power Apps e automação de processos para resolver problemas reais de negócio.
 
 ## Tecnologias
 
