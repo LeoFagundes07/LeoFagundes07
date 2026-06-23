@@ -36,11 +36,11 @@ Atualmente em transição para Tecnologia com foco em Salesforce, Power BI, Powe
 
 ### Toyota do Brasil
 
-
-- Automação Industrial
-- Indicadores operacionais com Power BI
-- Desenvolvimento de soluções utilizando Power Apps
-- melhoria continua de gerenciamento de projetos 
+- 14 anos de experiência em manutenção industrial e utilidades
+- Desenvolvimento de indicadores operacionais utilizando Power BI
+- Apoio na digitalização de processos utilizando Power Apps e SharePoint
+- Participação em projetos de automação industrial
+- Operação e manutenção de sistemas críticos de utilidades
 
 ---
 
